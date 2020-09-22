@@ -6,10 +6,14 @@
 The model in this design is the enhanced version of LeNet. Please use the algorithm as follows:  
  <br> 
 
-- Download the dataset (lfw) we need and unzip it to directory 'img_source', and then run `set_other_faces.py`   <br> 
-- Prepare a training video of user's face or just use camera to collect user's face data, run `get_my_faces.py`  <br> 
-- Run `train_faces.py` to train the CNN model, some parameters can be adjust in this file(learning rate and batch size)   <br> 
+- Download the dataset (lfw) we need and unzip it to directory 'img_source', and then run `set_other_faces.py`  
+
+- Prepare a training video of user's face or just use camera to collect user's face data, run `get_my_faces.py`  
+
+- Run `train_faces.py` to train the CNN model, some parameters can be adjust in this file(learning rate and batch size)  
+
 - Run `is_my_faces` to verify the performance of the model  
+
   
 
 ---
@@ -28,4 +32,4 @@ The model in this design is the enhanced version of LeNet. Please use the algori
 
 ---  
 
-<p align="right">This project will no longer be updated.  </p>
+#### This project will no longer be updated.
