@@ -1,8 +1,8 @@
 # FaceRecognitionCNN
 
 
-## Instructions
----
+#### Instructions
+
 <br>
 <br>
 The model in this design is the enhanced version of LeNet. Please use the algorithm as follows:  
@@ -16,8 +16,8 @@ The model in this design is the enhanced version of LeNet. Please use the algori
 
 
  
-## Coding Environment 
----
+#### Coding Environment 
+
 |Python 3.5|Pycharm Community Edition 2020|
 |:---:|:---:|
 |Tensorflow_cpu|1.10|
