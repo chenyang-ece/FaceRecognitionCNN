@@ -17,16 +17,21 @@ Opencv	3.42
 Dlib	18.18  
 Numpy	3.42  
 Scikit-Learn	0.20  
-Code site: https://github.com/chenyang-ece/FaceRecognitionCNN/tree/b6f187b7f97749581a83b91fd6f60348858486ae
 
 
 
 
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
 
 ---  
-This project will no longer be updated.
+This project will no longer be updated.  
+Code site: https://github.com/chenyang-ece/FaceRecognitionCNN/tree/b6f187b7f97749581a83b91fd6f60348858486ae  
