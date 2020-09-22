@@ -25,7 +25,7 @@ Scikit-Learn	0.20
 ---  
 Coding Environment  
 |Python 3.5|Pycharm Community Edition 2020|
-|:---：|:---：|
+|:---:|:---:|
 |Tensorflow_cpu|1.10|
 |OpenCV|3.42|
 |Dlib|18.18|
