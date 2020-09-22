@@ -1,4 +1,7 @@
 # FaceRecognitionCNN
+
+<br>
+<br>
 The model in this design is the enhanced version of LeNet. Please use the algorithm as follows:  
 
 
@@ -21,16 +24,7 @@ Scikit-Learn	0.20
 
 
 
-
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
 
 ---  
 This project will no longer be updated.  
