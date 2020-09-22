@@ -4,7 +4,7 @@
 ### Instructions
 <br>
 The model in this design is the enhanced version of LeNet. Please use the algorithm as follows:  
-
+<br>
 
 - Download the dataset (lfw) we need and unzip it to directory 'img_source', and then run `set_other_faces.py`  
 - Prepare a training video of user's face or just use camera to collect user's face data, run `get_my_faces.py` 
@@ -28,4 +28,4 @@ The model in this design is the enhanced version of LeNet. Please use the algori
 
 ---  
 This project will no longer be updated.  
-Code site: https://github.com/chenyang-ece/FaceRecognitionCNN/tree/b6f187b7f97749581a83b91fd6f60348858486ae  
+
