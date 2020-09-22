@@ -1,5 +1,5 @@
 # FaceRecognitionCNN
-
+## Instructions
 <br>
 <br>
 The model in this design is the enhanced version of LeNet. Please use the algorithm as follows:  
@@ -10,20 +10,10 @@ The model in this design is the enhanced version of LeNet. Please use the algori
 - Run `train_faces.py` to train the CNN model, some parameters can be adjust in this file(learning rate and batch size)  
 - Run `is_my_faces` to verify the performance of the model  
   
----
-
-Coding Environment  
-Python: 3.5  
-Compiler: Pycharm Community Edition 2020  
-Tensorflow	1.10  cpu  
-Opencv	3.42  
-Dlib	18.18  
-Numpy	3.42  
-Scikit-Learn	0.20  
 
 
 ---  
-Coding Environment  
+## Coding Environment  
 |Python 3.5|Pycharm Community Edition 2020|
 |:---:|:---:|
 |Tensorflow_cpu|1.10|
