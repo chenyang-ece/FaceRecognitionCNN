@@ -22,20 +22,15 @@ Numpy	3.42
 Scikit-Learn	0.20  
 
 
-|  Coding Env  |  Python: 3.5  |
-|  ----  | ----  |  
-
-| Compiler | Pycharm Community Edition 2020  |  
-| Tensorflow_cpu  | 1.10 |  
-| Opencv  | 3.42 |  
-| Dlib  | 18.18 |  
-| Numpy  | 3.42 |  
-| Scikit-Learn  | 0.20 |  
-
- 表格      | 第一列     
- -------- | :-----------:  | :-----------: 
- 第一行     | 第一列     | 第二列     
-
+---  
+Coding Environment  
+|Python 3.5|Pycharm Community Edition 2020|
+|:---|:---|
+|Tensorflow_cpu|1.10|
+|OpenCV|3.42|
+|Dlib|18.18|
+|Numpy|3.42|
+|Scikit-Learn|0.20|
 <br>
 
 ---  
